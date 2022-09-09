@@ -47,8 +47,8 @@ Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
 
 
 <div>
-<a href="https://github.com/ClertonAlmeida">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClertonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/ramonbarrbosa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonbarrbosa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClertonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -56,6 +56,6 @@ Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
 ### Meus Contatos:
 
 <div>
-<a href = "mailto:clertonjradv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/clerton-almeida-735965205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:ramonlbarrbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ramonlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
