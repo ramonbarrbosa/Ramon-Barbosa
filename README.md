@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-Eu tenho 3 anos e moro em Fortaleza - CE.
+Eu tenho 37 anos e moro em Fortaleza - CE.
 
 :heartpulse:Sou apaixonado por Tecnologia!
 
