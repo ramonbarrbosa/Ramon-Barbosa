@@ -4,8 +4,6 @@
 
 Eu tenho 37 anos e moro em Fortaleza - CE.
 
-:heartpulse:Sou apaixonado por Tecnologia!
-
 :white_check_mark: Tenho experiência no desenvolvimento de projetos de análise de dados utilizando ferramentas como SQL, Alteryx, Power BI e Python.
 
 :man_student: Cursei graduação em Sistemas para internet e MBA em Análise de Dados com Big Data.
