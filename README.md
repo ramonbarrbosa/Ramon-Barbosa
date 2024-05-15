@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-Eu tenho 37 anos e moro em Fortaleza - CE.
+Eu tenho 38 anos e moro em Fortaleza - CE.
 
 :white_check_mark: Tenho experiência no desenvolvimento de projetos de análise de dados utilizando ferramentas como SQL, Alteryx, Power BI e Python.
 
